@@ -1,0 +1,12 @@
+.parentdiv {
+    display: grid;
+}
+
+.gridAdd{
+    margin-top: 10% !important;
+    margin-left: 5% !important;
+}
+
+.dialogAdd{
+    min-width: 800px !important;
+}
